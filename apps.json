@@ -1,0 +1,46 @@
+[
+    {
+      "url": "https://github.com/frappe/erpnext",
+      "branch": "v15.71.1"
+    },
+    {
+      "url": "https://github.com/frappe/hrms",
+      "branch": "v15.47.8"
+    },
+    {
+      "url": "https://github.com/frappe/payments",
+      "branch": "version-15"
+    },
+    {
+      "url": "https://github.com/resilient-tech/india-compliance",
+      "branch": "v15.20.1"
+    },
+    {
+      "url": "https://github.com/frappe/crm",
+      "branch": "v1.52.1"
+    },
+    {
+      "url": "https://github.com/shridarpatil/frappe_whatsapp",
+      "branch": "v1.0.7"
+    },
+    {
+      "url": "https://github.com/frappe/helpdesk",
+      "branch": "v1.7.0"
+    },
+    {
+      "url": "https://github.com/frappe/insights",
+      "branch": "v3.2.7"
+    },
+    {
+      "url": "https://github.com/frappe/print_designer",
+      "branch": "v1.5.1"
+    },
+    {
+      "url": "https://github.com/developmentforpeople/dfp_external_storage",
+      "branch": "version-15"
+    },
+    {
+      "url": "https://github.com/resilient-tech/bank_integration",
+      "branch": "version-15"
+    }
+  ]
